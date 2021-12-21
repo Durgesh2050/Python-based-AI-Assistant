@@ -6,8 +6,8 @@ I have used python funcational programming to make this Ai assistant.
 we have seen in our daily life goggle assistant siri Alexa , I was pretty much interested  to know how this things are working . So I had worked on this project to learn how they are working . I want to make more personalized ai assistant, so I had created this one.
 
 # libararies used are following
-pyttsx3 (python text to speach): to convert text in voice 
-datetime: for get the info about date and time
+pyttsx3 (python text to speach): to convert text in voice ;
+datetime: for get the info about date and time;
 speech_recognition: for recognising  voice , i have used google's api(voice recognizer) that need internet to prtocess.
 wikipedia: Wikipedia library  that makes it easy to access and parse data from Wikipedia and we can sumrize according to our need.
 smtplib(Simple Mail Transfer Protocol ): to send mail to someone 
