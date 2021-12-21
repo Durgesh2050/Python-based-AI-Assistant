@@ -1,6 +1,6 @@
 # Python-based-AI-Assistant
 
-I have used python funcational programming to make this Ai assistant.
+I have used python functional programming to make this Ai assistant.
 
 # Inspiration of project : 
 we have seen in our daily life goggle assistant siri Alexa , I was pretty much interested  to know how this things are working . So I had worked on this project to learn how they are working . I want to make more personalized ai assistant, so I had created this one.
