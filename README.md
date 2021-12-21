@@ -22,4 +22,4 @@ we have seen in our daily life goggle assistant siri Alexa , I was pretty much i
 it can take voice command to take input and give me voice output. i can change the voice tone and even voice. you can custamize any command and it's my project unique fucatinality. 
 it can show date & time, cpu and battery status, search on wikipedia and gives summary, can do websearches , can open any application, can take screenshot, can send mail,can tell us jokes, can remind something.
 
-i will update soon some new feartures.
+i will soon update some new feartures.
